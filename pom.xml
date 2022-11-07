@@ -19,4 +19,5 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>com.mycompany.tarea4bpassword.Tarea4BPassword</exec.mainClass>
     </properties>
+    <name>Tarea4BPasswordAlvaro</name>
 </project>
